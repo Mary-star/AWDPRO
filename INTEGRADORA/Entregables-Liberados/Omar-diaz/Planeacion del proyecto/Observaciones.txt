@@ -1,0 +1,4 @@
+En general la documentación está bien lograda,
+Sólo en la imagen de la ruta crítica hay que incluir
+los tiempos de ida y de regreso, para identificar claramente
+cuales son las rutas críticas.
